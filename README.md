@@ -1,1 +1,1 @@
-# ATM-Interface-Application
+# Instagram Clone Application
